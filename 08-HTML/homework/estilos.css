@@ -1,5 +1,5 @@
 .titulo1{
-    color: rgb(56, 5, 240);
+    color: rgb(19, 9, 65);
 }
 img{
     width: 400px;
@@ -9,10 +9,35 @@ img{
     height: 600px;
     background-color: aqua;
     padding: 50px;
-    border: 2em rebeccapurple outset ;
+    border: 2em rgb(104, 13, 196) outset ;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #spanId{
     font-size: 18px;
     margin: 50px;
     padding: 50px;
 }
+body{
+    background-image: url(https://cdn.ttgtmedia.com/visuals/digdeeper/4.jpg);
+    background-size: cover;
+}
+.divClass{
+    width: 50vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    width: 50vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
