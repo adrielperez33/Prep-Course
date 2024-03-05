@@ -1,0 +1,18 @@
+.titulo1{
+    color: rgb(56, 5, 240);
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+    padding: 50px;
+    border: 2em rebeccapurple outset ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+}

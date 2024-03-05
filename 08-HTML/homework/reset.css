@@ -1,0 +1,33 @@
+/* Reset básico CSS */
+
+/* Box model */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Listas */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Elementos predeterminados */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button,
+input {
+  border: none;
+  outline: none;
+  background: none;
+  font-family: inherit;
+}
+
+/* Otros ajustes según sea necesario */
+
